@@ -11,6 +11,8 @@ jobs:
     name: WakaHS - Update GitHub Profile
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
       - name: WakaHS - Update GitHub Profile
         uses: fishjump/WakaHS@0.1.1
         with:
