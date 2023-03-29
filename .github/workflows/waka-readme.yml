@@ -16,4 +16,5 @@ jobs:
       - name: WakaHS - Update GitHub Profile
         uses: fishjump/WakaHS@0.2.2-dev
         with:
+          gh_token: ${{ secrets.GH_TOKEN }}
           waka_api_key: ${{ secrets.WAKA_API_KEY }}
