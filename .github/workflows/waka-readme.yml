@@ -12,6 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: WakaHS - Update GitHub Profile
-        uses: fishjump/WakaHS@0.1.0
+        uses: fishjump/WakaHS@0.1.1
         with:
           waka_api_key: ${{ secrets.WAKATIME_API_KEY }}
