@@ -14,7 +14,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: WakaHS - Update GitHub Profile
-        uses: fishjump/WakaHS@0.2.1
+        uses: fishjump/WakaHS@0.2.2-dev
         with:
-          image_tag: dev
           waka_api_key: ${{ secrets.WAKA_API_KEY }}
