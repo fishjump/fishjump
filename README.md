@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[!visitors](https://visitor-badge.glitch.me/badge?page_id=fishjump.fishjump&amp;left_color=green&amp;right_color=red)
+
 
 📊 **This Week I Spent My Time On** 
 
