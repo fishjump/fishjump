@@ -1,3 +1,5 @@
 ### Hi there 👋
 
+{{VisitorBadge}}
+
 {{WeeklySummary}}
