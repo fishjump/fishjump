@@ -1,0 +1,17 @@
+name: Waka Readme
+
+on:
+  push:
+    branches: [master]
+  schedule:
+    - cron: "0 9 * * *" # Runs at 4am EST (UTC - 5)
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: WakaHS - Update GitHub Profile
+    runs-on: ubuntu-latest
+    steps:
+      - name: WakaHS - Update GitHub Profile
+        uses: fishjump/WakaHS@0.1.0
+        with:
+          waka_api_key: ${{ secrets.WAKATIME_API_KEY }}
