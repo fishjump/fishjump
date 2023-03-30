@@ -8,16 +8,11 @@
 
 ---
 
-<table style="border: none;width: 100%">
-    <tr style="border: none">
-        <td style="border: none">
-            <li><i>Ph.D student at Virginia Tech<i></li>
-            <li><i>Formal Verification & Decomplition</i></li>
-            <li><i>C/C++, ASM, Haskell</i></li>
-        </td>
-        <td> <img src=https://slackmojis.com/emojis/5264-coding/download> </td>
-    </tr>
-</table>
+<img align='right' src=https://slackmojis.com/emojis/5264-coding/download> </td>
+
+- **State**: *Ph.D student at Virginia Tech*
+- **Research Interests**: *Formal Verification, Formal Methods, Software Engineering, Programming Languages*
+- **Languages**: *C/C++, x86 Assembly, Haskell*
 
 ---
 
