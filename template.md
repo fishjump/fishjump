@@ -2,9 +2,7 @@
 
 ---
 
-{{VisitorBadge}}
-
-{{CodeTimeBadge}}
+{{VisitorBadge}} {{CodeTimeBadge}}
 
 ---
 
