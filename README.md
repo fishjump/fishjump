@@ -2,9 +2,7 @@
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fishjump.fishjump&amp;left_color=gray&amp;right_color=red)
-
-![Code Time](https://img.shields.io/badge/Code%20Time-149%20hrs%2053%20mins-blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fishjump.fishjump&amp;left_color=gray&amp;right_color=red) ![Code Time](https://img.shields.io/badge/Code%20Time-150%20hrs%204%20mins-blue)
 
 ---
 
