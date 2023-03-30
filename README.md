@@ -2,20 +2,19 @@
 
 ---
 
-<table style="border: none;width: 100%">
-    <tr style="border: none">
-        <td style="border: none">
-            <li><i>Ph.D student at Virginia Tech<i></li>
-            <li><i>Formal Verification & Decomplition</i></li>
-            <li><i>C/C++, ASM, Haskell</i></li>
-        </td>
-        <td> <img src=https://slackmojis.com/emojis/5264-coding/download> </td>
-    </tr>
-</table>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fishjump.fishjump&amp;left_color=gray&amp;right_color=red)
+
+![Code Time](https://img.shields.io/badge/Code%20Time-149%20hrs%2053%20mins-blue)
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fishjump.fishjump&amp;left_color=green&amp;right_color=red)
+<img align='right' src=https://slackmojis.com/emojis/5264-coding/download> </td>
+
+- **State**: *Ph.D student at Virginia Tech*
+- **Research Interests**: *Formal Verification, Formal Methods, Software Engineering, Programming Languages*
+- **Languages**: *C/C++, x86 Assembly, Haskell*
+
+---
 
 
 📊 **This Week I Spent My Time On** 
