@@ -2,6 +2,12 @@
 
 ---
 
+{{VisitorBadge}}
+
+{{CodeTimeBadge}}
+
+---
+
 <table style="border: none;width: 100%">
     <tr style="border: none">
         <td style="border: none">
@@ -14,7 +20,5 @@
 </table>
 
 ---
-
-{{VisitorBadge}}
 
 {{WeeklySummary}}
