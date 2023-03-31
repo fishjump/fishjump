@@ -9,7 +9,7 @@
 <img align='right' src=https://slackmojis.com/emojis/5264-coding/download> </td>
 
 - **State**: *Ph.D student at Virginia Tech*
-- **Research Interests**: *Formal Verification, Formal Methods, Software Engineering, Programming Languages*
+- **Research Interests**: *Formal Verification, Formal Methods, Operating System*
 - **Languages**: *C/C++, x86 Assembly, Haskell*
 
 ---
