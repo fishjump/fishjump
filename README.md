@@ -2,14 +2,14 @@
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=fishjump.fishjump&amp;left_color=gray&amp;right_color=red) ![Code Time](https://img.shields.io/badge/Code%20Time-150%20hrs%204%20mins-blue)
+![](https://visitor-badge.glitch.me/badge?page_id=fishjump.fishjump&amp;left_color=gray&amp;right_color=red) ![Code Time](https://img.shields.io/badge/Code%20Time-154%20hrs%205%20mins-blue)
 
 ---
 
 <img align='right' src=https://slackmojis.com/emojis/5264-coding/download> </td>
 
 - **State**: *Ph.D student at Virginia Tech*
-- **Research Interests**: *Formal Verification, Formal Methods, Software Engineering, Programming Languages*
+- **Research Interests**: *Formal Verification, Formal Methods, Operating System*
 - **Languages**: *C/C++, x86 Assembly, Haskell*
 
 ---
