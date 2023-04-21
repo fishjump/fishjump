@@ -2,7 +2,7 @@
 
 ---
 
-![](https://shields.io/badge/dynamic/json?color=blue&amp;label=Visitors&amp;query=value&amp;url=https://api.countapi.xyz/hit/fishjump.fishjump) ![Code Time](https://img.shields.io/badge/Code%20Time-199%20hrs%2018%20mins-blue)
+![](https://shields.io/badge/dynamic/json?color=blue&amp;label=Visitors&amp;query=value&amp;url=https://api.countapi.xyz/hit/fishjump.fishjump) ![Code Time](https://img.shields.io/badge/Code%20Time-206%20hrs%2046%20mins-blue)
 
 ---
 
@@ -11,6 +11,17 @@
 - **State**: *Ph.D student at Virginia Tech*
 - **Research Interests**: *Formal Verification, Formal Methods, Operating System*
 - **Languages**: *C/C++, x86 Assembly, Haskell*
+
+---
+
+🚫 👉 ❌ 👉 ✅ **A Young Hegelian**
+
+``` haskell
+practice :: Monad negation => negation World -> Labor -> negation World
+practice w l = do
+  w' <- w
+  return $ new w' l
+```
 
 ---
 
