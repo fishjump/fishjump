@@ -2,7 +2,7 @@
 
 ---
 
-![](https://shields.io/badge/dynamic/json?color=blue&amp;label=Visitors&amp;query=value&amp;url=https://api.countapi.xyz/hit/fishjump.fishjump) ![Code Time](https://img.shields.io/badge/Code%20Time-206%20hrs%2046%20mins-blue)
+![](https://shields.io/badge/dynamic/json?color=blue&amp;label=Visitors&amp;query=value&amp;url=https://api.countapi.xyz/hit/fishjump.fishjump) ![Code Time](https://img.shields.io/badge/Code%20Time-206%20hrs%2053%20mins-blue)
 
 ---
 
@@ -17,6 +17,7 @@
 🚫 👉 ❌ 👉 ✅ **A Young Hegelian**
 
 ``` haskell
+-- The greatest problem in philosophy is not how to explain the world, but how to change it.
 practice :: Monad negation => negation World -> Labor -> negation World
 practice w l = do
   w' <- w
