@@ -14,4 +14,15 @@
 
 ---
 
+🚫 👉 ❌ 👉 ✅ **A Young Hegelian**
+
+``` haskell
+practice :: Monad negation => negation World -> Labor -> negation World
+practice w l = do
+  w' <- w
+  return $ new w' l
+```
+
+---
+
 {{WeeklySummary}}
