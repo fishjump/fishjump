@@ -17,7 +17,7 @@
 🚫 👉 ❌ 👉 ✅ **A Young Hegelian**
 
 ``` haskell
--- The greatest problem in philosophy is not how to explain the world, but how to change it.
+-- Philosophers have only interpreted the world in various ways; the point is to change it.
 practice :: Monad negation => negation World -> Labor -> negation World
 practice w l = do
   w' <- w
