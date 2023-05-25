@@ -2,7 +2,7 @@
 
 ---
 
-![](https://shields.io/badge/dynamic/json?color=blue&amp;label=Visitors&amp;query=value&amp;url=https://api.countapi.xyz/hit/fishjump.fishjump) ![Code Time](https://img.shields.io/badge/Code%20Time-224%20hrs%2050%20mins-blue)
+![](https://shields.io/badge/dynamic/json?color=blue&amp;label=Visitors&amp;query=value&amp;url=https://api.countapi.xyz/hit/fishjump.fishjump) ![Code Time](https://img.shields.io/badge/Code%20Time-225%20hrs%2054%20mins-blue)
 
 ---
 
@@ -33,14 +33,14 @@ practice w l = do
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages:
-- Java           4 hrs 55 mins       ██████████████████████░░░     87.87%
-- JSON           40 mins             ███░░░░░░░░░░░░░░░░░░░░░░     12.09%
+- Java           6 hrs 8 mins        █████████████████████░░░░     82.47%
+- JSON           1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░     17.51%
 
 🔥 Editors:
-- VS Code        5 hrs 35 mins       █████████████████████████     100.00%
+- VS Code        7 hrs 26 mins       █████████████████████████     100.00%
 
 💻 Operating System:
-- Windows        5 hrs 21 mins       ████████████████████████░     95.73%
-- Mac            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░     4.27%
+- Windows        7 hrs 12 mins       ████████████████████████░     96.79%
+- Mac            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░     3.21%
 ```
 
