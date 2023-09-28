@@ -2,7 +2,7 @@
 
 ---
 
-![](https://shields.io/badge/dynamic/json?color=blue&amp;label=Visitors&amp;query=value&amp;url=https://api.countapi.xyz/hit/fishjump.fishjump) ![Code Time](https://img.shields.io/badge/Code%20Time-432%20hrs%2037%20mins-blue)
+![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffishjump%2Ffishjump&amp;countColor=%232ccce4&amp;style=flat) ![Code Time](https://img.shields.io/badge/Code%20Time-433%20hrs%2049%20mins-blue)
 
 ---
 
