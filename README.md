@@ -2,7 +2,7 @@
 
 ---
 
-![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffishjump%2Ffishjump&amp;countColor=%232ccce4&amp;style=flat) ![Code Time](https://img.shields.io/badge/Code%20Time-449%20hrs%2035%20mins-blue)
+![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffishjump%2Ffishjump&amp;countColor=%232ccce4&amp;style=flat) ![Code Time](https://img.shields.io/badge/Code%20Time-453%20hrs%2011%20mins-blue)
 
 ---
 
@@ -33,15 +33,14 @@ practice w l = do
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages:
-- Java           4 hrs 7 mins        ███████████████████████░░     92.49%
-- TSQL           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░     4.59%
-- Python         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░     1.65%
-- Other          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░     1.17%
+- Java           6 hrs 7 mins        ███████████████████████░░     93.84%
+- TSQL           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░     3.13%
+- Python         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░     1.13%
 
 🔥 Editors:
-- VS Code        4 hrs 27 mins       █████████████████████████     100.00%
+- VS Code        6 hrs 31 mins       █████████████████████████     100.00%
 
 💻 Operating System:
-- Linux          4 hrs 27 mins       █████████████████████████     100.00%
+- Linux          6 hrs 31 mins       █████████████████████████     100.00%
 ```
 
