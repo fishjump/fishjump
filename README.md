@@ -2,7 +2,7 @@
 
 ---
 
-![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffishjump%2Ffishjump&amp;countColor=%232ccce4&amp;style=flat) ![Code Time](https://img.shields.io/badge/Code%20Time-462%20hrs%2028%20mins-blue)
+![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffishjump%2Ffishjump&amp;countColor=%232ccce4&amp;style=flat) ![Code Time](https://img.shields.io/badge/Code%20Time-463%20hrs%201%20min-blue)
 
 ---
 
@@ -33,12 +33,16 @@ practice w l = do
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages:
-- XML            2 mins              █████████████████████████     100.00%
+- C++            13 mins             ███████████░░░░░░░░░░░░░░     42.61%
+- C              8 mins              ███████░░░░░░░░░░░░░░░░░░     26.58%
+- Other          7 mins              ██████░░░░░░░░░░░░░░░░░░░     22.39%
+- XML            2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░     8.43%
 
 🔥 Editors:
-- VS Code        2 mins              █████████████████████████     100.00%
+- VS Code        32 mins             █████████████████████████     100.00%
 
 💻 Operating System:
-- Windows        2 mins              █████████████████████████     100.00%
+- WSL            29 mins             ███████████████████████░░     91.57%
+- Windows        2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░     8.43%
 ```
 
